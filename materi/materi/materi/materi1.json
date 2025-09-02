@@ -1,0 +1,32 @@
+{
+    "title": "biodata",
+    "total": 12,
+    "statussantri": true,
+    "statuslulus": false,
+    "pelajaran": [
+        "mtk",
+        "b.indo",
+        "b.arab",
+        "it"
+    ],
+    "surah": [
+        {
+            "no": 1,
+            "nama": "Al-fatihah",
+            "ayat": 7,
+            "turun": "makkah"
+        },
+        {
+            "no": 2,
+            "nama": "Al-baqoroh",
+            "ayat": 284,
+            "turun": "madinah"
+        },
+        {
+            "no": 3,
+            "nama": "An_nissa",
+            "ayat": 174,
+            "turun": "madinah"
+        }
+    ]
+}
